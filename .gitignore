@@ -1,0 +1,5 @@
+node/*
+*.egg-info/*
+dist/*
+env/*
+.envrc
