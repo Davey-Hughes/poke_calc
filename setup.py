@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name='daveyhughes',
-    version='0.0.1',
+    version='0.1.1',
     author='David Hughes',
     author_email='davidralphhughes@gmail.com',
     description='A python interface for using the Smogon damage calculator',

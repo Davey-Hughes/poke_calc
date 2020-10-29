@@ -1,5 +1,6 @@
-node/*
+build/*
 *.egg-info/*
 dist/*
 env/*
+*/__pycache__/*
 .envrc
